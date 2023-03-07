@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44451",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/mnt/sdc3/david/projs/react_playground/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}
